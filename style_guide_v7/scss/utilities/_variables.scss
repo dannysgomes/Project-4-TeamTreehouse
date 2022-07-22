@@ -1,0 +1,39 @@
+$color-teal: #51ddfc;
+$color-white: #fff;
+$color-pink: #e4757a;
+$color-purple: #927bc1;
+$color-color: #777;
+$color-primary: #53da87;
+$color-lightgreen: #58e1c1;
+$color-limegreen: #63cc82;
+$color-warning: #fd7856;
+$color-col3: #deb2ee;
+$color-col4: #7ee6fd;
+$color-col5: #88d9a0; 
+$color-col6: #4da2bb;
+$color-col7: #ec9fa3;
+$color-col8: #fd9f85;
+$color-col9: #e4757a;
+$color-col10: #63cc82;
+$color-col12: #80e8d1;
+$color-border: #ccc;
+
+
+
+$btn-colors: (
+  'default': #4ac8e4,
+  'success': #31d161,
+  'error': #b33e43,
+  'warning': #fd7856,
+  'info': #9e87cc,
+);
+
+
+
+$gutter: 10px;
+
+$break: 768px;
+
+// For media queries
+$min-width: 768px;
+$max-width: 1400px;

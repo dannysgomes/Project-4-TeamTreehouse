@@ -75,7 +75,7 @@ a {
 }
 
 .theme.col-2 {
-  background-color: #fd7856;
+  background-color: $color-warning;
 }
 
 .theme.col-3 {
@@ -182,7 +182,7 @@ a {
 }
 
 .warning {
-  background-color: #fd7856;
+  background-color: $color-warning;
 }
 
 

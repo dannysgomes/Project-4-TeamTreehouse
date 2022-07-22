@@ -1,0 +1,32 @@
+
+.btn {
+    margin-top: 15px;
+    width: 100%;
+    color: $color-white;
+    border: none;
+    padding: 10px 0;
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
+  
+  .default {
+    background-color: $color-teal;
+  }
+  
+  .error {
+    background-color: $color-pink;
+  }
+  
+  .info {
+    background-color: $color-purple;
+  }
+  
+  .success {
+    background-color: color-limegreen;
+  }
+  
+  .warning {
+    background-color: $color-warning;
+  }
+  
+  
